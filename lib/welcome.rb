@@ -3,5 +3,5 @@
 # ruby lib/welcome.rb from your terminal.
 
 def welcome(string)
-  puts "Welcome to Tic Tac Toe!"
+  puts string
 end
